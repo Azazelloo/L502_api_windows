@@ -1,0 +1,12 @@
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\bin\Debug\L502_digout_api_windows.exe.config
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\bin\Debug\L502_digout_api_windows.exe
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\bin\Debug\L502_digout_api_windows.pdb
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.csprojAssemblyReference.cache
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.Properties.Resources.resources
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.csproj.GenerateResource.cache
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.csproj.CoreCompileInputs.cache
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.exe
+C:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.pdb
+c:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\bin\Debug\lpcieNet.dll
+c:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.csproj.CopyComplete
+c:\Users\Azazello\Desktop\L502\L502_digout_api_windows\L502_digout_api_windows\obj\Debug\L502_digout_api_windows.MainForm.resources
